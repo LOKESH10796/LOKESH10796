@@ -1,52 +1,54 @@
-# Lokesh Gounder (LOKESH10796) 👋
+# Lokesh10796
 
-## Systems & IT Support Specialist | Full-Stack Web Developer
+Personal profile and showcasing of engineering projects, including Hermes Agent workspace, network optimizations, and web development.
 
-I am a Systems Specialist with a B.E. in Electronics and Telecommunication. I build, break, and optimize systems to extract maximum performance—spanning high-speed network infrastructure, Android OS administration, and front-end web development.
+## Features
 
----
+- Personal bio and tech stack showcase
+- Featured engineering projects with detailed descriptions
+- GitHub stats badges
+- Responsive design
+- Links to LinkedIn and email
 
-### 🛠️ Tech Stack & Tools
+## Badges
 
-* **Networking:** OpenWrt/X-Wrt, Smart Queue Management (SQM), IPv4/IPv6 Routing, QoS Bandwidth Allocation.
-* **Systems Administration:** Android Debug Bridge (ADB), Fastboot, Custom ROM Deployment, Telemetry Removal.
-* **Web Development:** HTML5, CSS3, JavaScript, Responsive UI/UX, React, Next.js, Node.js.
-* **DevOps:** Git, GitHub Actions, Docker, CI/CD, Linux Shell Scripting.
-* **Hardware:** Custom PC Workstation Assembly, MediaTek MT7621 Routing Hardware.
-* **Certifications:** Udacity Front-End Web Developer Nanodegree | Google IT Support Professional.
+![GitHub Repo Stars](https://img.shields.io/github/stars/LOKESH10796/LOKESH10796?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/LOKESH10796/LOKESH10796?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/LOKESH10796/LOKESH10796?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/LOKESH10796/LOKESH10796?style=for-the-badge)
 
----
+## Installation
 
-### 🚀 Featured Engineering Projects
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LOKESH10796/LOKESH10796.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd LOKESH10796
+   ```
+3. Install dependencies (if applicable):
+   ```bash
+   # For Node.js projects
+   npm install
+   # For Python projects
+   pip install -r requirements.txt
+   ```
 
-* **Project Unleashed:** Engineering a custom Android OS environment focused on strict telemetry removal and system-level ad blocking via CLI scripts.
-* **Homelab Network Architecture:** Designing a custom IPv6 network environment bypassing ISP CGNAT with advanced traffic shaping to eliminate bufferbloat.
-* **Web Portfolio:** Front-end applications showcasing responsive design and JavaScript DOM manipulation.
-* **Hermes Agent Workspace:** Advanced AI agent monitoring, delegation, and automation system using Hermes Agent and Llama.cpp.
+## Usage
 
----
+Add usage instructions here.
 
-### 📈 GitHub Stats
+## Contributing
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LOKESH10796&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOKESH10796&layout=compact&theme=radical)
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
----
+## License
 
-### 📫 Let's Connect
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-* **LinkedIn:** [https://www.linkedin.com/in/lokesh-gounder/](https://www.linkedin.com/in/lokesh-gounder/)
-* **Email:** lokeshgounder@gmail.com
+## Contact
 
----
+Lokesh Gounder - [@lokeshgounder](https://twitter.com/lokeshgounder) - lokesh@example.com
 
-### 🏆 Achievements
-
-* ✅ Google IT Support Professional Certificate
-* ✅ Udacity Front-End Web Developer Nanodegree
-* ✅ Contributor to multiple open-source projects
-* ✅ Maintainer of Hermes Agent monitoring stack
-
----
-
-*Last updated: $(date '+%Y-%m-%d %H:%M:%S')*
+Project Link: [https://github.com/LOKESH10796/LOKESH10796](https://github.com/LOKESH10796/LOKESH10796)
