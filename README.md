@@ -31,7 +31,7 @@ Welcome to my command center! I am a passionate Software Engineer and Cloud Arch
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| ♻️ [**Reframe.ai (Repurposer SaaS)**](https://github.com/LOKESH10796/repurposer-tool) | AI Micro-SaaS leveraging local WebGPU ML & Gemini. Features Clerk Auth & Gumroad Webhooks. | `Next.js 16` `React 19` `Gemini` `Clerk` |
+| ♻️ [**Reframe.ai (Repurposer SaaS)**](https://github.com/LOKESH10796/repurposer-tool) | AI Micro-SaaS leveraging local WebGPU ML & Gemini. Features Clerk Auth & Gumroad Webhooks. **[🚀 Live Demo](https://repurposer-tool.vercel.app)** | `Next.js 16` `React 19` `Gemini` `Clerk` |
 | 🌩️ [**Cloud-Native Microservices**](https://github.com/LOKESH10796/microservices-architecture-app) | Distributed backend architecture routed through an NGINX API Gateway, deployed on K8s. | `K8s` `Docker` `Node.js` `PostgreSQL` |
 | ⚡ [**Serverless Cloud Infrastructure**](https://github.com/LOKESH10796/serverless-todo-app) | Fully managed AWS architecture using Lambda, API Gateway Custom Authorizers, and DynamoDB. | `AWS` `Serverless` `DynamoDB` `Auth0` |
 | 🖼️ [**High-Perf Image Microservice**](https://github.com/LOKESH10796/image-filter-microservice) | Zero-leak `libvips` image processing API handling dynamic resizing and cinematic filtering. | `Node.js` `Express` `Sharp` `Zod` |
