@@ -105,5 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Name**: Lokesh Gounder
 - **GitHub**: [LOKESH10796](https://github.com/LOKESH10796)
 - **LinkedIn**: [lokeshgounder](https://linkedin.com/in/lokeshgounder)
+- **Email**: [lokeshgounder@gmail.com](mailto:lokeshgounder@gmail.com)
 
 Project Link: [https://github.com/LOKESH10796/LOKESH10796](https://github.com/LOKESH10796/LOKESH10796)
